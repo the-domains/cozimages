@@ -1,0 +1,14 @@
+layout_spectrum: 0.44774090219289064
+typography_spectrum: 0.9467809724155813
+color:
+  brandStrength: 0.5186861529946327
+  lightness: 0.0024228671099990606
+  saturation: 0.6110338105354458
+  rhythmicContrast: 0.7444342817179859
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: CozImages
